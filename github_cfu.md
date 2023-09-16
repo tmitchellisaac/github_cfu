@@ -3,3 +3,5 @@
 1. git log - to list the previous commits
 1. git add - to add files to staging area
 1. git commit -m "Message here" to commit files in staging area
+
+Did these changes go through??
